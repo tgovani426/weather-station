@@ -1,0 +1,23 @@
+:root {
+  --yellow: #ffc300;
+  --purple:#3d3d6b
+}
+
+body{
+  background-color: var(--purple);
+}
+
+input {
+  margin: 10px;
+
+}
+
+.container {
+  margin-top: 170px;
+  border: 2px solid;
+  border-radius: 15px;
+  width: fit-content;
+  padding: 25px;
+  background-color: var(--yellow);
+
+}
